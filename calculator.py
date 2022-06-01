@@ -14,9 +14,7 @@ class CalculatorApp(MDApp):
         # setup window
         Window.size = (400, 600)
         self.title = "Calculator"
-        # theme_cls.primary_palette هذه الخاصية هي عبارة عن الثيم الذي سيكون النص به
         self.theme_cls.primary_palette = "Pink"
-        # self.theme_cls.primary_hue = "700"  # خاصة باالشفافية
 
         screen = Screen()
 
@@ -37,7 +35,7 @@ class CalculatorApp(MDApp):
         # GridLayout Widget
         self.floatButtons = FloatLayout()
 
-        # Buttons 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, +, -, *, /, %, (, ), Mode(themes), 12 BUTTONS SHOULD THERE
+        # Buttons 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, +, -, *, /, %, (, ), **, Mode(themes), CE, Clear, 16 BUTTONS SHOULD THERE
 # The first row from bottom
         # Equal btn
         self.equal_btn = MDFlatButton(text="=", md_bg_color="#D100D1",
