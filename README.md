@@ -26,15 +26,14 @@ This repo will give you some insight how the kivy library in python working, you
 ![image](https://user-images.githubusercontent.com/70474875/171503425-0457dbfa-d1ea-44fc-8412-155acebcec28.png)
 
 
-# =========================================================================================================================================================
-
-# Any Contribution
+# Any Contribution, Please!
 
 # Connect with me
 
 Accounts: https://linktr.ee/developerx
+
 Email: mhmdjmala51@gmail.com
 
-
+TikTok & Instagram : developerx2
 
 
